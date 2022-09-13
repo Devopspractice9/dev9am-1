@@ -1,6 +1,3 @@
 # dev9am
-HELLO WORLD
-THIS IS A DEMO REPO
-CREATED BY SATHYATECH
-FRO DEVOPS PRACITCE
-.......
+Hai this is The Ravi
+learming git for  devops 
